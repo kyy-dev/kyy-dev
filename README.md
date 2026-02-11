@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=480&lines=Halo%2C+aku+Kyy;Iseng+ngoding+buat+tugas;Project+PKN+jadi+website;Belajar+pelan-pelan+😄" />
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=22c55e&height=90&section=header"/>
 
 </div>
@@ -89,10 +85,10 @@ Akhirnya jadi website beneran dan online 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=22c55e&height=90&section=footer"/>
-
 ✨ Terima kasih sudah mampir  
 ⭐ Kalau kepakai, silakan  
 😄 Kalau nggak, anggap aja dokumentasi iseng
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=22c55e&height=90&section=footer"/>
 
 </div>
