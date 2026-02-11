@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=150&section=header&text=Halo,%20aku%20Kyy!&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Bukan+web+developer;Cuma+iseng+untuk+tugas;Project+PKN+jadi+website;Belajar+pelan-pelan+😄" />
-
 </div>
 
 ---
