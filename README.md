@@ -50,6 +50,10 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <br/>
   <p><i>Terima kasih sudah mampir, jangan lupa kasih ⭐</i></p>
   
