@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Website Pertama (Iseng Tapi Online)
+## 🚀 Website Pertama
 ### 📚 Project PKN – Budaya & Kearifan Lokal Indonesia  
 🔗 **https://project-pkn.vercel.app/**
 
@@ -38,7 +38,7 @@ Akhirnya jadi website beneran dan online 🚀
 
 ---
 
-## 🛠️ Teknologi (Versi Santai)
+## 🛠️ Teknologi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vercel&theme=light" />
 </p>
