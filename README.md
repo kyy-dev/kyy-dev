@@ -26,32 +26,49 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Website Pertama (Iseng Tapi Online)
 ### 📚 Project PKN – Budaya & Kearifan Lokal Indonesia  
-🔗 **[Kunjungi Website](https://project-pkn.vercel.app/)**
+🔗 **[Kunjungi Project-PKN](https://project-pkn.vercel.app/)**
 
-> *"Kenapa nulis di kertas kalau bisa dideploy jadi website?"*
+> “Kalau cuma nulis, bosen. Kalau dibikin website, seru nggak ya?” — Akhirnya jadi beneran dan online. 🚀
 
-| Fitur Utama | Teknologi |
-| :--- | :--- |
-| 🎨 Animasi halus | `HTML5` |
-| 📱 Responsive Design | `CSS3` |
-| 🧭 Navigasi Budaya | `JavaScript` |
-| 🚀 Cloud Hosting | `Vercel` |
+#### ✨ Yang Ada di Website:
+- 🎨 **Animasi halus** & enak dilihat.
+- 📱 **Responsive** (Nyaman dibuka di HP).
+- 🧭 **Konten Lengkap**: Budaya, kuliner, seni, hingga wisata.
+- 📚 **Edukatif** tapi pembawaannya nggak kaku.
 
 ---
 
-## 🛠️ Stack & Tools
+## 🛠️ Teknologi & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,vercel,github,git&theme=dark" />
 </p>
 
+> Dipakai seadanya, yang penting tugas kelar dan tampil keren.
+
 ---
 
-## 📊 Aktivitas GitHub
+## 📊 Statistik GitHub (Biar Nggak Sepi)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyy-dev&theme=tokyonight&fire=22c55e&ring=22c55e&sideNums=22c55e&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
 </div>
+
+---
+
+## 📸 Preview Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="70%" style="border-radius: 10px;" />
+</p>
+
+<p align="center"><i>(Ilustrasi animasi belajar, bukan tampilan asli website)</i></p>
+
+---
+
+## 📦 Apa Saja di Sini?
+- 📁 **Project Sekolah:** Biar nggak hilang dimakan waktu.
+- 🧪 **Eksperimen:** Hasil coba-coba coding malam-malam.
+- 😅 **Project Iseng:** Apapun yang tiba-tiba kepikiran.
 
 ---
 
@@ -65,6 +82,6 @@
 ---
 
 <div align="center">
-  <p><i>Terima kasih sudah mampir! ⭐ Kalau kamu suka project isengku, jangan lupa kasih star ya.</i></p>
+  <p><i>Terima kasih sudah mampir! ⭐ Kalau project isengku bermanfaat, jangan lupa kasih star ya.</i></p>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=22c55e&height=100&section=footer"/>
 </div>
