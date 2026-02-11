@@ -69,12 +69,6 @@ Dan ya… jadilah ini 😅
 
 ---
 
-## 🤝 Kontak
-- GitHub: https://github.com/kyy-dev  
-- Email: **yab9146@gmail.com**
-
----
-
 <div align="center">
 
 ✨ Terima kasih sudah mampir  
