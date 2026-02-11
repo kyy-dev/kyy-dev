@@ -65,15 +65,6 @@ Akhirnya jadi website beneran dan online 🚀
 
 ---
 
-## 📸 Preview (Ilustrasi Animasi)
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="75%" />
-</p>
-
-*(Ilustrasi, bukan tampilan asli website)*
-
----
-
 ## 📦 Isi Akun GitHub Ini
 - 📁 Project tugas sekolah
 - 🧪 Eksperimen kecil
