@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 <em>A A student passionate about creating things, exploring programming, and coding using VS Code.</em>
+  🚀 <em>student passionate about creating things, exploring programming, and coding using VS Code.</em>
 </p>
 
 ---
