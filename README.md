@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Fadhillah Dzaki Nasrullah 👋</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyy-dev&icon=0&color=0" alt="Profile View Count" />
 </p>
 
 <p align="center">
-  🚀 <em>A 9th-grade student & aspiring developer passionate about building things, exploring cybersecurity, and diving deep into programming.</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  🚀 <em>A 9th-grade student & aspiring developer passionate about building things, exploring programming, and coding with VS Code.</em>
 </p>
 
 ---
@@ -12,7 +17,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages & Core -->
+  <!-- Sesuai Statistik (JavaScript, TypeScript, Python, Java, PHP, C++, HTML, CSS) -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -22,21 +27,21 @@
   
   <br/>
 
-  <!-- Web & Frontend -->
+  <!-- Frontend & Web Utilities -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" />
 
   <br/>
 
-  <!-- Databases & Backend -->
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <br/>
 
-  <!-- Tools & Editors -->
+  <!-- Tools & Environment -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
