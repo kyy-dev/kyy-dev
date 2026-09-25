@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 <em>A 9th-grade student & aspiring developer passionate about building things, exploring programming, and coding with VS Code.</em>
+  🚀 <em>A A student passionate about creating things, exploring programming, and coding using VS Code.</em>
 </p>
 
 ---
